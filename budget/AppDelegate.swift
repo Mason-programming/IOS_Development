@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import Pastel
+
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

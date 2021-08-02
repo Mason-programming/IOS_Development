@@ -1,0 +1,16 @@
+PODS:
+  - Pastel (0.6.0)
+
+DEPENDENCIES:
+  - Pastel (~> 0.6)
+
+SPEC REPOS:
+  trunk:
+    - Pastel
+
+SPEC CHECKSUMS:
+  Pastel: 814f081efbe2859c37e65ee44f396e6e5be88619
+
+PODFILE CHECKSUM: 8ab6e0d46e119a3620eea147c3b2620eb8fbdd34
+
+COCOAPODS: 1.10.1

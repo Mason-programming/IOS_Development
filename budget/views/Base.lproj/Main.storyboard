@@ -45,7 +45,6 @@
                                         </connections>
                                     </textField>
                                 </subviews>
-                                <color key="backgroundColor" red="0.60392156862745094" green="0.82352941176470584" blue="0.58823529411764708" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -64,6 +63,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="initAmount" destination="WPc-4Y-2dJ" id="zk6-fY-pg5"/>
                         <outlet property="startingDollar" destination="n4Z-hK-O6T" id="VS9-V3-guH"/>
                     </connections>
                 </viewController>
